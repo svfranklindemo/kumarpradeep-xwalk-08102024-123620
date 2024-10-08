@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/kumarpradeep/Gitex_pradeep_EDS_Universal_Editor/:/
+ - /content/kumarpradeep/Gitex_pradeep_EDS_Universal_Editor/metadata.json:/metadata.json
+ - /content/kumarpradeep/Gitex_pradeep_EDS_Universal_Editor/redirects.json:/redirects.json
